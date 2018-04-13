@@ -1,2 +1,2 @@
 # hello-word
-this is hello word repository for learning github
+hi, iam newbi for github and my english not good
